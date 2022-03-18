@@ -1,0 +1,12 @@
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/PureGL.csproj.AssemblyReference.cache
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/PureGL.GeneratedMSBuildEditorConfig.editorconfig
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/PureGL.AssemblyInfoInputs.cache
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/PureGL.AssemblyInfo.cs
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/PureGL.csproj.CoreCompileInputs.cache
+/home/anatoly/Desktop/PureGL/bin/Debug/net6.0/PureGL.deps.json
+/home/anatoly/Desktop/PureGL/bin/Debug/net6.0/PureGL.dll
+/home/anatoly/Desktop/PureGL/bin/Debug/net6.0/PureGL.pdb
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/PureGL.dll
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/refint/PureGL.dll
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/PureGL.pdb
+/home/anatoly/Desktop/PureGL/obj/Debug/net6.0/ref/PureGL.dll
