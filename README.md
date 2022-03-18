@@ -14,9 +14,11 @@ containts only functions from dynamic opengl library and constants from C header
 wget https://github.com/AnatolyRybchych/PureGL/blob/main/bin/Debug/net6.0/PureGL.dll?raw=true -O PureGl.dll
 
 ## adding GL reference to C# project: 
-"<Reference Include="PureGL">"
-    "<HintPath>path to dll</HintPath>"
-"</Reference>"
+```xml
+<Reference Include="PureGL">
+    <HintPath>path to dll</HintPath>
+</Reference>
+```
 
 ## c# code
 using static GL.GL;
