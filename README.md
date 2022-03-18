@@ -1,6 +1,6 @@
 # Pure GL
 ### c# opengl library
-## containts only functions from dynamic opengl library and constants from C header file
+containts only functions from dynamic opengl library and constants from C header file
 ## available platforms: 
     Linux, 
     Windows
